@@ -148,7 +148,7 @@ const clientId = '91bdf744e3784735bf5cd46c1945a0f8';
         const fixedTrack = {
             name: "Немецкий марш",
             artists: [{ name: "Was wollen wir trinken" }],
-            preview_url: "/audio/nemetskaya-pesnya-pro-pivo.mp3"
+            preview_url: "audio/nemetskaya-pesnya-pro-pivo.mp3"
         };
         const handleSearch = () => {
             const trackName = document.getElementById('song-input').value;
